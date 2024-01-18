@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on applock, an applocker for linux
-- 📫 How to reach me : roshan@cet.ac.in
+- 🔭 Working on whatever that's trending
+- 📫 How to reach me : roshanr2001@gmail.com
 
 <!--
 **Roshan-R/Roshan-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
